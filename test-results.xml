@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="3.1040" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-05-27T02:08:13" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="get csv " timestamp="2022-05-27T02:08:13" tests="2" file="/api-csv/test.js" time="3.1030" failures="0">
+    <testcase name="get csv  should get all csv" time="2.4730" classname="should get all csv">
+    </testcase>
+    <testcase name="get csv  should get csv with filename" time="0.6230" classname="should get csv with filename">
+    </testcase>
+  </testsuite>
+</testsuites>
